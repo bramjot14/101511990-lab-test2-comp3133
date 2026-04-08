@@ -45,4 +45,4 @@ src/
 ## Submission Links
 
 - GitHub Repository Link: **https://github.com/bramjot14/101511990-lab-test2-comp3133**
-- Deployment Link (Render): **DEPLOYMENT_LINK_HERE**
+- Deployment Link (Render): **https://one01511990-lab-test2-comp3133.onrender.com**
