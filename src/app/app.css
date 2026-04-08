@@ -1,0 +1,6 @@
+:host { display:block; min-height:100vh; background: radial-gradient(circle at top left, rgba(83,109,254,.14), transparent 30%), linear-gradient(180deg,#f6f8ff 0%,#eef3fb 100%); }
+.topbar { position:sticky; top:0; z-index:20; box-shadow:0 12px 24px rgba(15,23,42,.12); }
+.toolbar-content { width:min(1180px, calc(100% - 2rem)); margin:0 auto; display:flex; justify-content:space-between; align-items:center; gap:1rem; }
+.brand, nav a { display:inline-flex; align-items:center; gap:.5rem; color:#fff; text-decoration:none; font-weight:600; }
+nav a.active { text-decoration:underline; }
+.page-shell { width:min(1180px, calc(100% - 2rem)); margin:0 auto; padding:1.5rem 0 2.25rem; }
