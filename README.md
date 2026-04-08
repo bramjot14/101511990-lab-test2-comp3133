@@ -62,7 +62,7 @@ src/
 
 ## Submission Links
 
-- GitHub Repository Link: **ADD_YOUR_GITHUB_REPOSITORY_LINK_HERE**
+- GitHub Repository Link: **https://github.com/bramjot14/101511990-lab-test2-comp3133**
 - Deployment Link (Vercel/Render): **ADD_YOUR_DEPLOYMENT_LINK_HERE**
 
 ## Notes
