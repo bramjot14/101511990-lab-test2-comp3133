@@ -35,24 +35,6 @@ src/
       spacex.service.ts
 ```
 
-## Screenshots
-
-### Running application - Mission List
-
-![Running application](screenshots/running-application.png)
-
-### Code - Mission List component
-
-![Component code](screenshots/component-code.png)
-
-### Code - SpaceX service API call
-
-![Service code](screenshots/service-code.png)
-
-### Output UI - Mission Details page
-
-![Output UI](screenshots/output-ui-details.png)
-
 ## How to Run
 
 1. Open a terminal in this project folder.
@@ -63,8 +45,4 @@ src/
 ## Submission Links
 
 - GitHub Repository Link: **https://github.com/bramjot14/101511990-lab-test2-comp3133**
-- Deployment Link (Vercel/Render): **ADD_YOUR_DEPLOYMENT_LINK_HERE**
-
-## Notes
-
-The application uses the SpaceX REST API and includes an offline fallback dataset so the UI can still render for demonstration or screenshot purposes if the API is temporarily unavailable.
+- Deployment Link (Render): **DEPLOYMENT_LINK_HERE**

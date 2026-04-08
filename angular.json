@@ -1,10 +1,13 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
-  "cli": { "packageManager": "npm" },
+  "cli": {
+    "packageManager": "npm",
+    "analytics": "812e4ab0-deda-443f-827a-68fd3961a96a"
+  },
   "newProjectRoot": "projects",
   "projects": {
-    "101511990_3133": {
+    "101511990-lab-test2-comp3133": {
       "projectType": "application",
       "root": "",
       "sourceRoot": "src",
